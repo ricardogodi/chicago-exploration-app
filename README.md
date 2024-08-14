@@ -35,7 +35,7 @@ The Chicago Exploration App is a Flutter-based mobile application designed to sh
 
 ### Sport Teams Tab
 - **Description**: Shows Chicago’s major sports teams, including their home venues.
-- ![Sport Teams Tab](./sports_teams_tab.png)
+- ![Sport Teams Tab](./sport_teams_tab.png)
 
 ### Attractions Tab
 - **Description**: Lists well-known attractions in Chicago with relevant details.
