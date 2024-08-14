@@ -31,20 +31,20 @@ The Chicago Exploration App is a Flutter-based mobile application designed to sh
 
 ### Restaurants Tab
 - **Description**: Displays a list of popular Chicago restaurants with images, names, and addresses.
-- ![Restaurants Tab](/Restaurants_Tab.png)
+- ![Restaurants Tab](./restaurants_tab.png)
 
 ### Sport Teams Tab
 - **Description**: Shows Chicago’s major sports teams, including their home venues.
-- ![Sport Teams Tab](images/sports_teams_tab.png)
+- ![Sport Teams Tab](./sports_teams_tab.png)
 
 ### Attractions Tab
 - **Description**: Lists well-known attractions in Chicago with relevant details.
-- ![Attractions Tab](images/attractions_tab.png)
+- ![Attractions Tab](./attractions_tab.png)
 
 ### Thumbs Up and Down Demo
 - **Description**: Demonstrates the interactive buttons allowing users to like or dislike items.
-- ![Thumbs Up and Down Demo](images/thumbs_up_down_demo.png)
+- ![Thumbs Up and Down Demo](./thumbs_up_down_demo.png)
 
 ### Clicking on an Attraction
 - **Description**: An example of the dialog that appears when a user taps on an attraction item.
-- ![Clicking on an Attraction](images/clicking_on_attraction.png)
+- ![Clicking on an Attraction](./clicking_on_attraction.png)
