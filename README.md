@@ -31,7 +31,7 @@ The Chicago Exploration App is a Flutter-based mobile application designed to sh
 
 ### Restaurants Tab
 - **Description**: Displays a list of popular Chicago restaurants with images, names, and addresses.
-- ![Restaurants Tab](Restaurants_Tab.png)
+- ![Restaurants Tab](/Restaurants_Tab.png)
 
 ### Sport Teams Tab
 - **Description**: Shows Chicago’s major sports teams, including their home venues.
